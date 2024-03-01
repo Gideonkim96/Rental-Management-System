@@ -16,21 +16,12 @@ If you are using WAMP, copy the 'rental_house' folder into 'www' directory.
 
 The following are the credentials to use while logging into the system:
 
+CONTACT : +254792504696 FOR CREDITALS
+
 PASSWORD:
 ADMINISTRATOR:
-Username: Admin
-Password: administrator
-
 MANAGER:
-Username: Rono
-Password: 124567890
-
 TENANT:
-1. Username: Gideon
-Password: genesisgab
-
 2. Username: emanuel
 Password: 123456789
-
 3. Username: narindwa
-Password: genesisgloria
